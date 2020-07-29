@@ -2,9 +2,7 @@
 
 Nice to meet you. My name is Pinky Samantaray. 
 
-:black_small_square: I lead complex transformation programs from beginning to end. I work within the Financial Services & Consumer Business industries and have 7+ years experience in solving complex problems via developing innovative, sustainable business and technology solutions. I am an experienced program manager with specific expertise in the people aspects of change - designing and implementing :new: business and operating models including organisation design, governance and ways of working. 
-
-:black_small_square: As a Certified Scrum Master, I lead complex transformation programs from beginning to end. I work within the Financial Services & Consumer Business industries and have 7+ years experience in solving complex problems via developing innovative, sustainable business and technology solutions. I am a frontend Engineer by passion.  
+:black_small_square: As a Certified Scrum Master, I lead complex transformation programs from beginning to end. I work within the Financial Services & Consumer Business industries and have 7+ years experience in solving complex problems via developing innovative, sustainable business and technology solutions. I am a frontend Engineer by passion. 
 
 :black_small_square: I enjoy consulting for the opportunity it gives me to work side-by-side with clients to co-design real solutions for their business and their people.
 
