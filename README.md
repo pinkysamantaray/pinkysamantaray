@@ -23,7 +23,7 @@ Let's connect on <br>
 :sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles:
 
 
-![Pinky's github stats](https://github-readme-stats.vercel.app/api?username=pinkysamantaray&theme=algolia&show_icons=true)
+![Pinky's github stats](https://github-readme-stats.vercel.app/api?username=pinkysamantaray&theme=algolia&show_icons=false)
 
 <!--
 **pinkysamantaray/pinkysamantaray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
