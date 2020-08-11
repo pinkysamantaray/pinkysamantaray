@@ -21,6 +21,10 @@ Let's connect on <br>
     <a href="https://www.linkedin.com/in/pinkysamantaray/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
 :sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles:
+
+
+![Pinky's github stats](https://github-readme-stats.vercel.app/api?username=pinkysamantaray&theme=algolia&show_icons=true)
+
 <!--
 **pinkysamantaray/pinkysamantaray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
