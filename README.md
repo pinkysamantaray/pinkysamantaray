@@ -1,14 +1,14 @@
 ### Hello there :sparkles: 
 
-Nice to meet you. My name is Pinky Samantaray. 
+Nice to meet you! My name is Pinky Samantaray. 
 
-:black_small_square: As a Certified Scrum Master, I lead complex transformation programs from beginning to end. I work within the Financial Services & Consumer Business industries and have 9+ years of experience in solving complex problems via developing innovative, sustainable business and technology solutions. I am a frontend Engineer by passion. 
-
+:black_small_square: I am a frontend Engineer by passion. I work within Deloitte Consulting in the Financial Services & Consumer sector. I have over 10 years of experience solving complex problems by developing innovative, sustainable business and technology solutions. 
+ 
 :black_small_square: I enjoy consulting for the opportunity, it gives me to work side-by-side with clients to co-design real solutions for their business and their people.
 
 :black_small_square: I am currently based in Amsterdam, focusing on designing and implementing large-scale business transformations. I am experienced across end-to-end transformations, starting with translating business strategy into capabilities and initiatives, all the way down to the detailed implementation and launch of :new: structures and products. 
 
-:black_small_square: I enjoy applying a Design approach to problem solving, underpinned by placing the customer at the heart of everything I do. I am passionate about learning, exploring :new: cultures and ways of working, and I am always looking for a :new: challenge. 
+:black_small_square: I enjoy applying a design approach to problem-solving, underpinned by placing the customer at the heart of everything I do. I am passionate about learning, exploring :new: cultures and ways of working. I am always looking for a :new: challenge. 
 
 
 
