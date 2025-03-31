@@ -18,12 +18,25 @@ Thank you for visiting my profile. :rocket:
 
 
 Let's connect on <br>
-    <a href="https://www.linkedin.com/in/pinkysamantaray/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/pinkysamantaray"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+
+
+
+<!-- <p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/pinkysamantaray/count.svg" />
+</p> -->
+
 
 :sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles:
 
 
-![Pinky's github stats](https://github-readme-stats.vercel.app/api?username=pinkysamantaray&theme=algolia&show_icons=true)
+<a href="https://github.com/pinkysamantaray">
+  <img height="180em" style="max-width:45%;margin: 0 0 7px 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinkysamantaray&theme=buefy&layout=compact&hide=html,css,hack,ags%20script" />
+</a>
+
+
+<!-- ![Pinky's github stats](https://github-readme-stats.vercel.app/api?username=pinkysamantaray&theme=algolia&show_icons=true) -->
 
 <!--
 **pinkysamantaray/pinkysamantaray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
